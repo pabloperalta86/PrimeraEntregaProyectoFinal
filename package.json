@@ -1,0 +1,18 @@
+{
+  "name": "PreEntrega1",
+  "version": "1.0.0",
+  "description": "Primera Entrega Proyecto Final Backend Coder-House",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js",
+    "dev": "nodemon ./src/app.js"
+  },
+  "keywords": [],
+  "author": "Pablo Peralta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}

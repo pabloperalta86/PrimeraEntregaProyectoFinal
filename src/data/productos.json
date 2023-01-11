@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "banana",
+    "descripcion": "banana",
+    "codigo": "BANANA",
+    "foto": "https://st.depositphotos.com/1003272/1632/i/450/depositphotos_16322913-stock-photo-red-apple.jpg",
+    "precio": 300,
+    "stock": 225,
+    "id": 2,
+    "timestamp": 1673461231913
+  }
+]
